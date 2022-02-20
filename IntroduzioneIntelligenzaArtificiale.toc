@@ -1,0 +1,16 @@
+\babel@toc {italian}{}\relax 
+\babel@toc {italian}{}\relax 
+\contentsline {chapter}{\numberline {1}Introduzione}{2}{}%
+\contentsline {section}{\numberline {1.1}Gli agenti}{2}{}%
+\contentsline {paragraph}{}{2}{}%
+\contentsline {subsection}{\numberline {1.1.1}Caratteristiche}{2}{}%
+\contentsline {paragraph}{}{2}{}%
+\contentsline {subsection}{\numberline {1.1.2}Percezioni e azioni}{3}{}%
+\contentsline {paragraph}{}{3}{}%
+\contentsline {section}{\numberline {1.2}Agenti razionali}{4}{}%
+\contentsline {paragraph}{}{4}{}%
+\contentsline {paragraph}{Definizione}{4}{}%
+\contentsline {paragraph}{Razionalità non onniscenza}{4}{}%
+\contentsline {paragraph}{Razionalità e apprendimento}{4}{}%
+\contentsline {section}{\numberline {1.3}Agenti autonomi}{4}{}%
+\contentsline {paragraph}{Definizione}{4}{}%
